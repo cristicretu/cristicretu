@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there, I'm Cristi 👋
 
-<!--
-**cristicretu/cristicretu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a young developer, passionate about tech and computers, currently working with C/C++, Python, HTML/CSS/JS, React, Tailwind, Flask and Swift. Besides programming, I like to create graphics, UI's and UX's in Photoshop or Figma.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on <a href="https://github.com/cristicretu/Selfold">Selfold </a>
+- 🌱 I’m currently learning <a href="https://swift.org>">Swift </a>
+- 👯 I’m looking to collaborate on anything 😁
+- 🤔 I’m looking for help with Swift 😅
+- 📫 How to reach me:  <a href="https://twitter.com/cristicrtu"> Twitter </a>
+
+<div align="center">
+ <hr>
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/cristicretu/count.svg" />
+</p>
+ </div>
