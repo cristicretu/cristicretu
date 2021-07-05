@@ -1,6 +1,6 @@
 ## Hi there, I'm Cristi 👋
 
-#### I'm a young developer, passionate about tech and computers, currently working with C/C++, Python, HTML/CSS/JS, React, Tailwind, Flask and Swift. Besides programming, I like to create graphics, UI's and UX's in Photoshop or Figma.
+#### I'm a young developer, passionate about tech and computers, currently working with C/C++, Python, HTML/CSS/JS, React, Tailwind, Flask and Swift. Besides programming, I like to create graphics and UI's in Photoshop or Figma.
 
 <hr>
 
