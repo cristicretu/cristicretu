@@ -1,19 +1,34 @@
 ## Hi there, I'm Cristi 👋
 
-#### I'm a young developer, passionate about tech and computers, currently working with C/C++, Python, HTML/CSS/JS, React, Tailwind, Flask and Swift. Besides programming, I like to create graphics and UI's in Photoshop or Figma.
+```swift
+import Foundation
 
-<hr>
+class About: Me {
 
-- 🔭 I’m currently working on <a href="https://github.com/cristicretu/Selfold">Selfold </a>
-- 🌱 I’m currently learning <a href="https://swift.org>">Swift </a>
-- 👯 I’m looking to collaborate on anything 😁
-- 🤔 I’m looking for help with Swift 😅
-- 📫 How to reach me:  <a href="https://twitter.com/cristicrtu"> Twitter </a>
+    func getLanguages() -> [String] {
+        return ["C/C++", "Python", "Javascript", "Swift"]
+    }
 
-<div align="center">
- <hr>
-<p> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/cristicretu/count.svg" />
-</p>
- </div>
+    func getFutureGoal() -> String {
+        return "Contribute to open source & start freelancing"
+    }
+
+    func reachMe() -> String {
+        return "https://twitter.com/cristicrtu"
+    }
+
+    func getPassions() -> [String] {
+        return ["Graphic-design 👨‍🎨", "Cycling 🚲"]
+    }
+    
+    func getGithubViews() -> Int {
+        print(profileCounter)
+    }
+    
+}
+```
+```swift
+var preview = About()
+preview.getGithubViews()
+```
+<img src="https://profile-counter.glitch.me/cristicretu/count.svg" />
