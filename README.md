@@ -1,34 +1,17 @@
 ## Hi there, I'm Cristi 👋
 
-```swift
-import Foundation
+<hr>
 
-class About: Me {
+- 🔭 I’m currently working on a Facebook Clone using using the MERN Stack
+- 🌱 I’m currently learning ReactJS ⚛️ </a>
+- 👯 I’m looking to collaborate on anything 😁
+- 📫 How to reach me:  <a href="https://twitter.com/cristicrtu"> Twitter </a>
 
-    func getLanguages() -> [String] {
-        return ["C/C++", "Python", "Javascript", "Swift"]
-    }
-
-    func getFutureGoal() -> String {
-        return "Contribute to open source & start freelancing"
-    }
-
-    func reachMe() -> String {
-        return "https://twitter.com/cristicrtu"
-    }
-
-    func getPassions() -> [String] {
-        return ["Graphic-design 👨‍🎨", "Cycling 🚲"]
-    }
+<hr>
     
-    func getGithubViews() -> Int {
-        print(profileCounter)
-    }
-    
-}
-```
-```swift
-var preview = About()
-preview.getGithubViews()
-```
-<img src="https://profile-counter.glitch.me/cristicretu/count.svg" />
+<div align="center">
+    <p> 
+      Visitor count<br>
+      <img src="https://profile-counter.glitch.me/cristicretu/count.svg" />
+    </p>
+</div>
