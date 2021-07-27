@@ -2,7 +2,6 @@
 
 <hr>
 
-- 🔭 I’m currently working on a Facebook Clone using using the MERN Stack
 - 🌱 I’m currently learning ReactJS ⚛️ </a>
 - 👯 I’m looking to collaborate on anything 😁
 - 📫 How to reach me:  <a href="https://twitter.com/cristicrtu"> Twitter </a>
